@@ -41,14 +41,14 @@ wget https://raw.githubusercontent.com/lincxln/XBOT-LINCXLN/alpha/Getstring.sh &
 <br>
 
 ### Klik Gambar Di Bawah Untuk Menerapkan
-[![Deploy](https://coursework.vschool.io/content/images/size/w1000/2018/10/heroku_logo.jpeg)](https://heroku.com/deploy?template=https://github.com/IDONGO/XBOT-LINCXLN)
+[![Deploy](https://coursework.vschool.io/content/images/size/w1000/2018/10/heroku_logo.jpeg)](https://heroku.com/deploy?template=https://github.com/lincxln/XBOT-LINCXLN)
 
 #### TERSERAH PILIH YANG MANA ATAS ATAU BAWAH!
 
 ## <p align="center">Terapkan Ke Metode Heroku</p>
 
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/lincxln/XBOT-LINCXLN/tree/alpha"> <img src="https://img.shields.io/badge/Terapkan%20Ke%20Heroku-blue?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/IDONGO/XBOT-LINCXLN/tree/alpha"> <img src="https://img.shields.io/badge/Terapkan%20Ke%20Heroku-blue?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
 
 <br>
 </p>
