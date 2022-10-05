@@ -41,7 +41,7 @@ wget https://raw.githubusercontent.com/lincxln/XBOT-LINCXLN/alpha/Getstring.sh &
 <br>
 
 ### Klik Gambar Di Bawah Untuk Menerapkan
-[![Deploy](https://coursework.vschool.io/content/images/size/w1000/2018/10/heroku_logo.jpeg)](https://heroku.com/deploy?template=https://github.com/lincxln/XBOT-LINCXLN)
+[![Deploy](https://coursework.vschool.io/content/images/size/w1000/2018/10/heroku_logo.jpeg)](https://heroku.com/deploy?template=https://github.com/IDONGO/XBOT-LINCXLN)
 
 #### TERSERAH PILIH YANG MANA ATAS ATAU BAWAH!
 
